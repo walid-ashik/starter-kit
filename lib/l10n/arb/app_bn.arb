@@ -1,0 +1,7 @@
+{
+    "@@locale": "bn",
+    "counterAppBarTitle": "মাঠকর্মী",
+    "@counterAppBarTitle": {
+        "description": "অ্যাপ বার টাইটেল"
+    }
+}
